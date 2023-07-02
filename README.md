@@ -125,8 +125,10 @@ run ```killall python3```  in new terminal
 
 ### Final Output
 
-![Demo](asset/demo.gif)
 
----
+https://github.com/sarthak-tirpude/Spark-Live-Streaming-/assets/76950603/a1fe11e9-4a4d-4e96-aee9-42275d9a3fcf
 
-<img src="/asset/footer.png"/>
+
+![demo](https://github.com/sarthak-tirpude/Spark-Live-Streaming-/assets/76950603/27e4d6b6-3cbe-4c69-b1c5-bdcaf0712841)
+
+
